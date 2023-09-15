@@ -1,0 +1,2591 @@
+fileFormatVersion: 2
+guid: a3c3c53d8db8efa45b97d44ff2b849fb
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 252
+        width: 7
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12448aac5d80aec4691ad6e763cc0279
+      internalID: -484400256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 252
+        width: 7
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff93d2ecdb1703743b062a1e057f9bb8
+      internalID: 119249617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 275
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3094c324c6ac2fe488eab067e12a8a5d
+      internalID: -884079867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_3
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 253
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a55fa6e5b025de946996a5c243707c74
+      internalID: 784625155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 253
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b640fb8747bf4b419cd461b4e2a16d8
+      internalID: 685138503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_5
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 253
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb47e48286062944ab9df432f88bb22f
+      internalID: 1654123731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_6
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 253
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90c33a1750148349ac889e7f79680a5
+      internalID: -821914661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_7
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 253
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13153f2619959249aec56cdb14a4629
+      internalID: -2080500327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_8
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 253
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb89840afdfce004ab5867273f6509c9
+      internalID: -96256863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_9
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 253
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36385a5a451c69f4e9ac6baa8d87ad27
+      internalID: -715918131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_10
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 253
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3827d883c40defc4681428bdf4263bc6
+      internalID: 1833746330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_11
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 267
+        width: 22
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc984fa44f2caa4ca00a0292770846b
+      internalID: -1994516283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_12
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 253
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186df4b7d2026cd45824e71bd8f91dda
+      internalID: -2075734548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_13
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 252
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d220dcf328950b48a8d467ac7e40595
+      internalID: 801429696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_14
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 251
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2119bc7b247bc04395e6aa7c2f1c59a
+      internalID: -641580845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_15
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 251
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f461f106ac13043915f1bb4c3c87fb
+      internalID: 366712784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 220
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b56d8297631de44ab863a4ec574f3cc
+      internalID: -144103330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_17
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 221
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d17589669e7954d8f55da030051512
+      internalID: -1457050077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_18
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 221
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661965ffb5234bc4cb17eb78ff707bdd
+      internalID: 2136854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_19
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 221
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ec790d16608e048baab801405ba10c
+      internalID: -1365707438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_20
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 221
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37733c13b93e52a4b9cbe54030333925
+      internalID: 1433774488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_21
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 221
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1917cbd74317184da5c7cb7745832fd
+      internalID: -1531821749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_22
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 220
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7ba500f378cbe41a9ed506bc6656f0
+      internalID: -710472478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_23
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 221
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf25ba91adcc3e43a4444bf3b5a2e54
+      internalID: -1877025464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_24
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 221
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d82be835326b36d44a6875a135ef44f4
+      internalID: 1970155837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_25
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 221
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31161800291808240b9666c7ca4d596f
+      internalID: 591948657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_26
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 221
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc7e9648a6d70943af4b9e166dbb80b
+      internalID: 1287627260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_27
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 221
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eefe3a29bba8ac541a01b81e9c01fc5f
+      internalID: 1762889985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_28
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 221
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be2f8bf85dd456d45a85ce9185f29bca
+      internalID: -99481805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 187
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed36520b8300eee40aacaef6f8f6a6aa
+      internalID: 863416449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_30
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 187
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68070c4e5765b8940a3b1ad16849c9d3
+      internalID: -1118519083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_31
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 187
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160db5a1207ff4745954d4ba304f8a9a
+      internalID: 280150589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_32
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 188
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a775414be5b604c82781cedb42a27d
+      internalID: -393149768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_33
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 188
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37ad3637829c394aa4f48c42855b15c
+      internalID: 1292670984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_34
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 188
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d048088cb9bef34cafe4d9f7a09b500
+      internalID: 8416249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_35
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 188
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa01eb384066e1c4191e8fd98281ca13
+      internalID: -1736702373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_36
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 188
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68c8740d4a522843b4a5ef41a48e5f9
+      internalID: -1986829254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_37
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 187
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692e9e89e87ba3c4c82f67a2e4bc51a1
+      internalID: -1719982366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_38
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 187
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b5770b8b9d411645a4c5901bdb009c3
+      internalID: 6757827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_39
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 187
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c1f8b74fe23364bb5827b39e8c0e5f
+      internalID: -736173558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_40
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 193
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6f0960136f1e04985d5c523b8cf621
+      internalID: 455889886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_41
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 195
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82de8db36cd8bbc4bada46a55ae0e918
+      internalID: -1633805284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_42
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 158
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb709621aba50664f951723ceb9673a0
+      internalID: -795172247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_43
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 157
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 687dc5a09cb27a84f9dcfecbdcd6dba0
+      internalID: -1289132359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_44
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 168
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faaee7f58a6d921499fe8e45222f6dcd
+      internalID: -1108089476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_45
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 154
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f24c6b204ac0746b60a7fb3af916ad
+      internalID: 11760627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_46
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 154
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ec0dcd1db75524e896e13e022a2dca
+      internalID: -1960781519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_47
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 154
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da477f61d41b654183fec4306c8d48e
+      internalID: -713616540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_48
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 150
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700deabc87dfc224d97ec46e36bd8a9a
+      internalID: 38551793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_49
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 150
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f3107c57b1e414a9da716c880933b3
+      internalID: 287761226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_50
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 152
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35cbd5e614064064eb9df3b709690558
+      internalID: 2076991312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_51
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 152
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3718a295afb25c419b39d7bf46d68d4
+      internalID: 1570441329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_52
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 150
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444963260eef44d40b8026b276b92d20
+      internalID: 1221791683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_53
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 151
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 622f53ebbd1980649ae5554ebfd10b70
+      internalID: 587667779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_54
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 151
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea8de19598f43f40b1f1087be402e03
+      internalID: -1601270429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_55
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 160
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 485a4d37cc94df849a0a1acc853b304a
+      internalID: -1935434971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_56
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 158
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccfd1c4f026751e4a96e6a8ecd419b47
+      internalID: -1365613054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_57
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 117
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f2cb975969ee1545845f730dd048253
+      internalID: 1911393797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_58
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 123
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db27fbcfaca1064b990f6d35b8a087c
+      internalID: -877579183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_59
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 113
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d01456c51dc664aae88b8229c2ee82
+      internalID: 1155578422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_60
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 112
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb1858a144e21e449eca6a561729fe1
+      internalID: -1367566080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_61
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 113
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc7cd4755fbec3498171c7e38a92b48
+      internalID: 1710184524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_62
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 112
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e56f86600d25147b286368ac1bba8c
+      internalID: -882889894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_63
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 116
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ed6e4887b42244c9757238f61ac257
+      internalID: 275642077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_64
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 116
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086e4fbe60a48394d9276d338e2fa25b
+      internalID: 1149905247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_65
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 116
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 885ebcab8e6de96478be52618a194385
+      internalID: 1867662067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_66
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 116
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51005a15267ec6c44a4ba6d55cff40d6
+      internalID: -1162849646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_67
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 114
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e679bfd79a6118347a51ead5c0bfa50f
+      internalID: -1831591160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_68
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 119
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d572c0b697703a44f94c62ac7366fe6f
+      internalID: -1967538460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_69
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 114
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a52d98d1c2e42746953119275960a98
+      internalID: -1112782704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_70
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 80
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5013815aa6684d4e876d45873b8288f
+      internalID: 1701517956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_71
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 80
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e04547b583f7fc45887fef8cc70e85f
+      internalID: -1824862241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_72
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 80
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a514caa92b1755428c3cd49c3826a2c
+      internalID: -2113005021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_73
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 80
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089882302b3a67947a623f97532958cd
+      internalID: 1182473980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_74
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 80
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9fd8584d2d978e429f58898f6608692
+      internalID: 1721737858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_75
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 80
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec66b1211e55484083a34f8d00f64a8
+      internalID: -1739998772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_76
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 80
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35be3dac16a95c946bf5e8051f8bb67b
+      internalID: -1045884743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_77
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 80
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee54329497dee94889a0bc10aa5ed53
+      internalID: -1547153316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_78
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 80
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ca3fcfab1c99f4bbd021ecbb9f7336
+      internalID: 2025321227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_79
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 80
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d7b3eee7a8229647b42a755d6a251eb
+      internalID: 1841200642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_80
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 80
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43fe90b6adce814181d6b9781b8eba0
+      internalID: -1694616456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_81
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 80
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea5835314ad76e45a8aaef1b18e0e0d
+      internalID: -1398216756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_82
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 80
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a47e0c026b9a914f803407ff66d6f13
+      internalID: -835738222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_83
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 80
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9dc6b9c10573fa4b9243ee2c8241669
+      internalID: -953276058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_84
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 61
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c044298d8eda843a27aaa746a5e335
+      internalID: 1483920399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_85
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 65
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa3cd8f7862a4e4c9962154af3bf8da
+      internalID: 961576150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_86
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 48
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8beda08d5d0116419b51c731af4d559
+      internalID: -1324942579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_87
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 47
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca7ff7a42934e147a76560592906c6a
+      internalID: -521776578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_88
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 47
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 412e88aed1a48b34eb58b0ca8fa21bd0
+      internalID: -1047749561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_89
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 47
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d72a47f7b665e4ca59f0c49b8fc552
+      internalID: -1274118669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_90
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 47
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6758e6f940b3f954eb79409edb40a2fe
+      internalID: -1716666847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_91
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 47
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f9e3099f1376348917846ffebe0886
+      internalID: 345861944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_92
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 56
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d6a0c9c9eddf0468433469eb594ee5
+      internalID: 145173521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_93
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 56
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a02a535f512080d4891dd5b4ad23507c
+      internalID: -1989546163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_94
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 56
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 450b64ab5fc2c8241878cde0144f8ec7
+      internalID: -217240179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_95
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 56
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6102d473bbd98f24d8dbd6dbe772c740
+      internalID: 1174826242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_96
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 49
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6700a6a679ee14eb5c38b651a5b198
+      internalID: 2094206285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_97
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 49
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25de0302bb26e74ba8c14315a385da8
+      internalID: -1850877809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_98
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 49
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83436e2cfdea5ea4998e33cd7ba93676
+      internalID: 1296584429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_99
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 49
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9fb1d9b991d734d8d507f2a49e5a0e
+      internalID: 1635233702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 15
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe577444097b93d41a3316c2c639fca3
+      internalID: 1147644242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_101
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 15
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c046e162537a042ab304d982d48041
+      internalID: 1121863362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_102
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 14
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174fd6d2d780bed41a309a3171319416
+      internalID: -810337542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_103
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 14
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213104bf1fe095843831d6878bcd88e4
+      internalID: 533725204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_104
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 14
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f199d1c03e3bdb7498beb01cb1781cb7
+      internalID: 836400382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_105
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 15
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b95563667ea48e54faec1bdb4517065c
+      internalID: 67635295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_106
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 14
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf590b82d8bf66241b0bf46e9d6a59af
+      internalID: -1414149082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_107
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 15
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6d5ef59a1832444a90513bb8a79ce1
+      internalID: 510716853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_108
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 16
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f02fe901e2ab9409e2df099c342f7d
+      internalID: 2085025863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_109
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 13
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ff6ee111b92d740953c3414110f166
+      internalID: -1235885368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_110
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 13
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f696ccb2ea63b64484b2da9ee44cca4
+      internalID: -1963274499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_111
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 13
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2eb64a538eb49d478826f5dbe7c1c12
+      internalID: -1099281201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_0: -484400256
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_1: 119249617
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_10: 1833746330
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_100: 1147644242
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_101: 1121863362
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_102: -810337542
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_103: 533725204
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_104: 836400382
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_105: 67635295
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_106: -1414149082
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_107: 510716853
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_108: 2085025863
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_109: -1235885368
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_11: -1994516283
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_110: -1963274499
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_111: -1099281201
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_12: -2075734548
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_13: 801429696
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_14: -641580845
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_15: 366712784
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_16: -144103330
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_17: -1457050077
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_18: 2136854
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_19: -1365707438
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_2: -884079867
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_20: 1433774488
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_21: -1531821749
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_22: -710472478
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_23: -1877025464
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_24: 1970155837
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_25: 591948657
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_26: 1287627260
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_27: 1762889985
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_28: -99481805
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_29: 863416449
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_3: 784625155
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_30: -1118519083
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_31: 280150589
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_32: -393149768
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_33: 1292670984
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_34: 8416249
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_35: -1736702373
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_36: -1986829254
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_37: -1719982366
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_38: 6757827
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_39: -736173558
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_4: 685138503
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_40: 455889886
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_41: -1633805284
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_42: -795172247
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_43: -1289132359
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_44: -1108089476
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_45: 11760627
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_46: -1960781519
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_47: -713616540
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_48: 38551793
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_49: 287761226
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_5: 1654123731
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_50: 2076991312
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_51: 1570441329
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_52: 1221791683
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_53: 587667779
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_54: -1601270429
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_55: -1935434971
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_56: -1365613054
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_57: 1911393797
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_58: -877579183
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_59: 1155578422
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_6: -821914661
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_60: -1367566080
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_61: 1710184524
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_62: -882889894
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_63: 275642077
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_64: 1149905247
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_65: 1867662067
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_66: -1162849646
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_67: -1831591160
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_68: -1967538460
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_69: -1112782704
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_7: -2080500327
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_70: 1701517956
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_71: -1824862241
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_72: -2113005021
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_73: 1182473980
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_74: 1721737858
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_75: -1739998772
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_76: -1045884743
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_77: -1547153316
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_78: 2025321227
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_79: 1841200642
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_8: -96256863
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_80: -1694616456
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_81: -1398216756
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_82: -835738222
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_83: -953276058
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_84: 1483920399
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_85: 961576150
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_86: -1324942579
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_87: -521776578
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_88: -1047749561
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_89: -1274118669
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_9: -715918131
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_90: -1716666847
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_91: 345861944
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_92: 145173521
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_93: -1989546163
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_94: -217240179
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_95: 1174826242
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_96: 2094206285
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_97: -1850877809
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_98: 1296584429
+      222-2222072_megaman-sprite-sheet-mega-man-hurt-sprite_99: 1635233702
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
